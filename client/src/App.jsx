@@ -20,6 +20,11 @@ function App() {
         View .Git Folder
       </h1>
     </div>
+    <div className="h-screen flex flex-col items-center">
+      <h1 className="text-6xl font-bold">
+        View .Git Folder
+      </h1>
+    </div>
     </>
   )
 }
